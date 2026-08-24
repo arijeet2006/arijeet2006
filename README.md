@@ -69,6 +69,15 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 
 **Focus areas:** Dynamic Programming, Trees, Heaps, Graphs
 
+**Contest Highlights**
+
+| Contest | Date | Rank | Solved | Rating |
+|---|---|---|---|---|
+| Biweekly Contest 189 | Aug 15, 2026 | 2,203 | 3 / 4 | 1,692 |
+| Weekly Contest 504 | May 31, 2026 | 2,386 | 2 / 4 | 1,561 |
+| Biweekly Contest 185 | Jun 20, 2026 | 3,115 | 3 / 4 | 1,606 |
+| Weekly Contest 509 | Jul 05, 2026 | 4,241 | 2 / 4 | 1,643 |
+
 ---
 
 ## Achievements
@@ -89,10 +98,6 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=arijeet2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff&cache_seconds=86400" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijeet2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8&cache_seconds=86400" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=arijeet2006&theme=tokyonight&hide_border=true&background=0d1117&stroke=00d9ff&ring=00d9ff&fire=ff6e6e&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=00d9ff&sideLabels=00d9ff&dates=aaaaaa" />
 </p>
 
 ---
