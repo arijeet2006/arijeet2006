@@ -192,8 +192,8 @@ A conversational AI scheduling platform built on a 9-node LangGraph state machin
 
 `LangGraph` `Gemini` `Python` `Streamlit` `LangChain`
 
-Source: _add your GitHub repo link here_
-Live Demo: _add your Streamlit deployment link here_
+Source: [github.com/arijeet2006/dental-ai](https://github.com/arijeet2006/dental-ai)
+Demo Video: [Watch here](https://drive.google.com/file/d/13bF_SiOEW-3XsUIw96M1uA46VtSF2rOW/view?usp=sharing)
 
 </td>
 <td width="50%" valign="top">
@@ -204,8 +204,8 @@ A 4-agent LangGraph pipeline (flight, hotel, itinerary, synthesis) coordinated b
 
 `LangGraph` `FastAPI` `PostgreSQL` `Groq` `Python`
 
-Source: _add your GitHub repo link here_
-Live Demo: _add your deployment link here_
+Source: [github.com/arijeet2006/MultiAgent-Travel-AI](https://github.com/arijeet2006/MultiAgent-Travel-AI)
+Demo Video: [Watch here](https://drive.google.com/file/d/1C5ugiRwPzZTTK-DsC6MZZhwVMYCS19TJ/view?usp=sharing)
 
 </td>
 </tr>
