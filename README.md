@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=GenAI%20%2F%20ML%20Engineer%20%E2%80%94%20&descAlignY=62&descSize=18&descColor=e0f7ff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=GenAI%20%2F%20ML%20Engineer%20%E2%80%94%20&descSize=18&descColor=e0f7ff" />
 </p>
 
 <h3 align="center">
@@ -106,18 +106,40 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 
 <p align="center"><b>Contest Rating Progress</b></p>
 
-<div align="center">
+<table align="center">
+<tr>
+<th align="center">Contest</th>
+<th align="center">Date</th>
+<th align="center">Rank</th>
+<th align="center">Rating</th>
+</tr>
+<tr>
+<td align="center"><b>Weekly Contest 504</b></td>
+<td align="center">May 31, 2026</td>
+<td align="center"><img src="https://img.shields.io/badge/2%2C386-FFA116?style=for-the-badge&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1561-2c2c54?style=for-the-badge&logoColor=white" /></td>
+</tr>
+<tr>
+<td align="center"><b>Biweekly Contest 185</b></td>
+<td align="center">Jun 20, 2026</td>
+<td align="center"><img src="https://img.shields.io/badge/3%2C115-FFA116?style=for-the-badge&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1606-1e3a5f?style=for-the-badge&logoColor=white" /></td>
+</tr>
+<tr>
+<td align="center"><b>Weekly Contest 509</b></td>
+<td align="center">Jul 05, 2026</td>
+<td align="center"><img src="https://img.shields.io/badge/4%2C241-FFA116?style=for-the-badge&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1643-0f5f8f?style=for-the-badge&logoColor=white" /></td>
+</tr>
+<tr>
+<td align="center"><b>Biweekly Contest 189</b></td>
+<td align="center">Aug 15, 2026</td>
+<td align="center"><img src="https://img.shields.io/badge/2%2C203-00C853?style=for-the-badge&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1692-00D9FF?style=for-the-badge&logoColor=white" /></td>
+</tr>
+</table>
 
-| Contest | Date | Rank | Solved | Rating | Change |
-|:---|:---:|:---:|:---:|:---:|:---:|
-| Weekly Contest 504 | May 31, 2026 | 2,386 | 2 / 4 | 1,561 | — |
-| Biweekly Contest 185 | Jun 20, 2026 | 3,115 | 3 / 4 | 1,606 | +45 |
-| Weekly Contest 509 | Jul 05, 2026 | 4,241 | 2 / 4 | 1,643 | +37 |
-| Biweekly Contest 189 | Aug 15, 2026 | **2,203** | 3 / 4 | **1,692** | +49 |
-
-</div>
-
-<p align="center"><i>Rating climbed steadily from 1,561 to 1,692 across four consecutive contests, with a best-ever rank of 2,203.</i></p>
+<p align="center"><i>Rating climbed steadily from 1,561 to 1,692 across four consecutive contests, with a best-ever rank of 2,203 (highlighted in green).</i></p>
 
 <p align="center">
   <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=3" />
@@ -145,9 +167,10 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arijeet2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&ring_color=00d9ff&cache_seconds=86400" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijeet2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-ten-olive-38.vercel.app/api?username=arijeet2006&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff&cache_seconds=86400" />
+  <img height="165" src="https://github-readme-stats-ten-olive-38.vercel.app/api/top-langs/?username=arijeet2006&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d9ff&text_color=ffffff&langs_count=8&cache_seconds=86400" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijeet2006&custom_title=Contribution+Activity&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=8" />
