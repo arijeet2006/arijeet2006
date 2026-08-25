@@ -172,7 +172,7 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijeet2006&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=00cc00" />
+  <img src="https://streak-stats.demolab.com?user=arijeet2006&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=00cc00" />
 </p>
 
 <p align="center">
