@@ -7,9 +7,9 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arijeet2006&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=39FF14" alt="views"/>
-  <img src="https://img.shields.io/github/followers/arijeet2006?label=Followers&style=for-the-badge&color=000000&labelColor=39FF14" alt="followers"/>
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-000000?style=for-the-badge&labelColor=39FF14" alt="open to work"/>
+  <img src="https://komarev.com/ghpvc/?username=arijeet2006&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=0d3d0d" alt="views"/>
+  <img src="https://img.shields.io/github/followers/arijeet2006?label=Followers&style=for-the-badge&color=000000&labelColor=0d3d0d" alt="followers"/>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-000000?style=for-the-badge&labelColor=0d3d0d" alt="open to work"/>
 </p>
 
 <p align="center">
@@ -98,8 +98,8 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 
 <p align="center">
 <a href="https://leetcode.com/u/ZOM_ZOM/"><img src="https://img.shields.io/badge/LeetCode-ZOM__ZOM-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" /></a>
-<img src="https://img.shields.io/badge/Problems%20Solved-450+-000000?style=for-the-badge&labelColor=39FF14" />
-<img src="https://img.shields.io/badge/Peak%20Rating-1692-000000?style=for-the-badge&labelColor=39FF14" />
+<img src="https://img.shields.io/badge/Problems%20Solved-450+-000000?style=for-the-badge&labelColor=0d3d0d" />
+<img src="https://img.shields.io/badge/Peak%20Rating-1692-000000?style=for-the-badge&labelColor=0d3d0d" />
 </p>
 
 <p align="center"><b>Focus areas:</b> Dynamic Programming, Trees, Heaps, Graphs</p>
@@ -132,14 +132,14 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 <td align="center"><img src="https://img.shields.io/badge/1643-1c6b1c?style=for-the-badge&logoColor=39FF14" /></td>
 </tr>
 <tr>
-<td align="center"><b>Biweekly Contest 189</b></td>
+<td align="center"><b>Biweekly Contest 189</b> 🏆</td>
 <td align="center">Aug 15, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/2%2C203-00C853?style=for-the-badge&logoColor=000000" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1692-39FF14?style=for-the-badge&logoColor=000000" /></td>
+<td align="center"><img src="https://img.shields.io/badge/2%2C203-238636?style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1692-238636?style=for-the-badge" /></td>
 </tr>
 </table>
 
-<p align="center"><i>Rating climbed steadily from 1,561 to 1,692 across four consecutive contests, with a best-ever rank of 2,203 (highlighted in green).</i></p>
+<p align="center"><i>Rating climbed steadily from 1,561 to 1,692 across four consecutive contests, with a personal-best rank of 2,203 🏆</i></p>
 
 <p align="center">
   <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
@@ -169,8 +169,6 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 <p align="center">
   <img src="./metrics.svg" alt="GitHub metrics" />
 </p>
-
-<sub align="center">Generated daily by a GitHub Action in this repo (see <code>.github/workflows/update-stats.yml</code>) — no dependency on any third-party server, so it can't go down from someone else's rate limit or paused deployment.</sub>
 
 <p align="center">
   <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
