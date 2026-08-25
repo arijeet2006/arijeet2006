@@ -167,17 +167,10 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arijeet2006&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&ring_color=39FF14&cache_seconds=86400&v=1" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijeet2006&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&langs_count=8&cache_seconds=86400&v=1" />
+  <img src="./metrics.svg" alt="GitHub metrics" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=arijeet2006&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=00cc00&v=1" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijeet2006&custom_title=Contribution+Activity&bg_color=000000&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff14&hide_border=true&radius=8&v=1" />
-</p>
+<sub align="center">Generated daily by a GitHub Action in this repo (see <code>.github/workflows/update-stats.yml</code>) — no dependency on any third-party server, so it can't go down from someone else's rate limit or paused deployment.</sub>
 
 <p align="center">
   <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
