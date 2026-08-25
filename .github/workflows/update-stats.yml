@@ -15,19 +15,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate metrics SVG (stats + languages + streak)
+      - name: Generate metrics SVG (activity + repositories + languages)
         uses: lowlighter/metrics@latest
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.metrics }}
           filename: metrics.svg
           base: header, activity, community, repositories
           plugin_languages: yes
           plugin_languages_analysis_timeout: 15
-          plugin_streaks: yes
           config_timezone: Asia/Kolkata
           config_output: svg
           config_display: large
-          config_theme: dark
-          # Neon-green-on-black look to match the profile theme
-          config_base_color: '#000000'
-          # See https://github.com/lowlighter/metrics for the full option list
+          # Black background + neon-green text/borders to match the profile theme
+          extras_css: |
+            :root { --color-canvas-default: #000000 !important; }
+            body, .metrics { background-color: #000000 !important; }
+            h1, h2, h3, text, tspan { fill: #39FF14 !important; color: #39FF14 !important; }
+            .stats, .repo-card, .section { border-color: #39FF14 !important; }
