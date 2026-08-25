@@ -1,19 +1,19 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=GenAI%20%2F%20ML%20Engineer%20%E2%80%94%20Multi-Agent%20Systems&descAlignY=62&descSize=18&descColor=e0f7ff" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=39FF14&animation=fadeIn&fontAlignY=42&desc=GenAI%20%2F%20ML%20Engineer%20%E2%80%94%20Multi-Agent%20Systems&descAlignY=62&descSize=18&descColor=00ff41" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=Building+multi-agent+LLM+systems;LangGraph+%7C+LangChain+%7C+RAG;IIT+Patna+%7C+Engineering+Physics;Developer+by+day%2C+gamer+by+night" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Building+multi-agent+LLM+systems;LangGraph+%7C+LangChain+%7C+RAG;IIT+Patna+%7C+Engineering+Physics;Developer+by+day%2C+gamer+by+night&background=00000000" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arijeet2006&style=for-the-badge&color=00D9FF&label=PROFILE+VIEWS" alt="views"/>
-  <img src="https://img.shields.io/github/followers/arijeet2006?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0d1117" alt="followers"/>
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-00D9FF?style=for-the-badge&labelColor=0d1117" alt="open to work"/>
+  <img src="https://komarev.com/ghpvc/?username=arijeet2006&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=39FF14" alt="views"/>
+  <img src="https://img.shields.io/github/followers/arijeet2006?label=Followers&style=for-the-badge&color=000000&labelColor=39FF14" alt="followers"/>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-000000?style=for-the-badge&labelColor=39FF14" alt="open to work"/>
 </p>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
 </p>
 
 <h2 align="center">About Me</h2>
@@ -45,61 +45,61 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 </table>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
 </p>
 
 <h2 align="center">Tech Arsenal</h2>
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14" />
 </p>
 
 <p align="center"><b>GenAI / ML / DL</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-4B0082?style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-3776AB?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/NLTK-000000?style=for-the-badge&logoColor=39FF14" />
 </p>
 
 <p align="center"><b>Backend & Frameworks</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14" />
 </p>
 
 <p align="center"><b>Tools & Platforms</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=39FF14" />
 </p>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
 </p>
 
 <h2 align="center">Competitive Programming</h2>
 
 <p align="center">
-<a href="https://leetcode.com/u/ZOM_ZOM/"><img src="https://img.shields.io/badge/LeetCode-ZOM__ZOM-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/Problems%20Solved-450+-00D9FF?style=for-the-badge&labelColor=0d1117" />
-<img src="https://img.shields.io/badge/Peak%20Rating-1692-00D9FF?style=for-the-badge&labelColor=0d1117" />
+<a href="https://leetcode.com/u/ZOM_ZOM/"><img src="https://img.shields.io/badge/LeetCode-ZOM__ZOM-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" /></a>
+<img src="https://img.shields.io/badge/Problems%20Solved-450+-000000?style=for-the-badge&labelColor=39FF14" />
+<img src="https://img.shields.io/badge/Peak%20Rating-1692-000000?style=for-the-badge&labelColor=39FF14" />
 </p>
 
 <p align="center"><b>Focus areas:</b> Dynamic Programming, Trees, Heaps, Graphs</p>
@@ -116,33 +116,33 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 <tr>
 <td align="center"><b>Weekly Contest 504</b></td>
 <td align="center">May 31, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/2%2C386-FFA116?style=for-the-badge&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1561-2c2c54?style=for-the-badge&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/2%2C386-000000?style=for-the-badge&logoColor=39FF14" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1561-0d3d0d?style=for-the-badge&logoColor=39FF14" /></td>
 </tr>
 <tr>
 <td align="center"><b>Biweekly Contest 185</b></td>
 <td align="center">Jun 20, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/3%2C115-FFA116?style=for-the-badge&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1606-1e3a5f?style=for-the-badge&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/3%2C115-000000?style=for-the-badge&logoColor=39FF14" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1606-145214?style=for-the-badge&logoColor=39FF14" /></td>
 </tr>
 <tr>
 <td align="center"><b>Weekly Contest 509</b></td>
 <td align="center">Jul 05, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/4%2C241-FFA116?style=for-the-badge&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1643-0f5f8f?style=for-the-badge&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/4%2C241-000000?style=for-the-badge&logoColor=39FF14" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1643-1c6b1c?style=for-the-badge&logoColor=39FF14" /></td>
 </tr>
 <tr>
 <td align="center"><b>Biweekly Contest 189</b></td>
 <td align="center">Aug 15, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/2%2C203-00C853?style=for-the-badge&logoColor=white" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1692-00D9FF?style=for-the-badge&logoColor=white" /></td>
+<td align="center"><img src="https://img.shields.io/badge/2%2C203-00C853?style=for-the-badge&logoColor=000000" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1692-39FF14?style=for-the-badge&logoColor=000000" /></td>
 </tr>
 </table>
 
 <p align="center"><i>Rating climbed steadily from 1,561 to 1,692 across four consecutive contests, with a best-ever rank of 2,203 (highlighted in green).</i></p>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
 </p>
 
 <h2 align="center">Achievements</h2>
@@ -161,17 +161,30 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 </div>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
 </p>
 
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijeet2006&custom_title=Contribution+Activity&bg_color=0d1117&color=00d9ff&line=00d9ff&point=ffffff&area=true&area_color=00d9ff&hide_border=true&radius=8" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=arijeet2006&show_icons=true&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&icon_color=39FF14&ring_color=39FF14" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arijeet2006&layout=compact&hide_border=true&bg_color=000000&title_color=39FF14&text_color=39FF14&langs_count=8" />
 </p>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=3" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arijeet2006&hide_border=true&background=000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=39FF14&currStreakNum=39FF14&sideNums=39FF14&dates=00cc00" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=arijeet2006&custom_title=Contribution+Activity&bg_color=000000&color=39ff14&line=39ff14&point=ffffff&area=true&area_color=39ff14&hide_border=true&radius=8" />
+</p>
+
+<blockquote align="center" style="border-left: 4px solid #39FF14;">
+<sub>If the graphs above show a broken-image icon on GitHub itself, it's almost always because these are third-party render services (Vercel-hosted) that occasionally rate-limit or cold-start slowly on first load — a hard refresh or re-opening the profile page a few seconds later usually fixes it. It's not something wrong with your markdown.</sub>
+</blockquote>
+
+<p align="center">
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
 </p>
 
 <h2 align="center">Featured Projects</h2>
@@ -206,17 +219,17 @@ Demo Video: [Watch here](https://drive.google.com/file/d/1C5ugiRwPzZTTK-DsC6MZZh
 </table>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,50:00d9ff,100:0d1117&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
 </p>
 
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arijeet-das-2a80b5329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:2006.arijeet.das@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://leetcode.com/u/ZOM_ZOM/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+<a href="https://www.linkedin.com/in/arijeet-das-2a80b5329/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
+<a href="mailto:2006.arijeet.das@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
+<a href="https://leetcode.com/u/ZOM_ZOM/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" /></a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=100&section=footer" />
 </p>
