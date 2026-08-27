@@ -1,0 +1,113 @@
+<svg viewBox="0 0 900 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#001a05"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="1.6" result="b"/>
+      <feMerge>
+        <feMergeNode in="b"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="900" height="160" fill="url(#skyGrad)"/>
+  <circle cx="331" cy="19" r="1.2" fill="#eafff0" opacity="0.2"/>
+    <circle cx="74" cy="68" r="0.6" fill="#eafff0" opacity="0.5"/>
+    <circle cx="596" cy="7" r="0.8" fill="#eafff0" opacity="0.2"/>
+    <circle cx="88" cy="55" r="1.2" fill="#eafff0" opacity="0.2"/>
+    <circle cx="246" cy="11" r="1.2" fill="#eafff0" opacity="0.2"/>
+    <circle cx="846" cy="72" r="0.6" fill="#eafff0" opacity="0.35"/>
+    <circle cx="645" cy="80" r="0.6" fill="#eafff0" opacity="0.7"/>
+    <circle cx="50" cy="28" r="0.6" fill="#eafff0" opacity="0.35"/>
+    <circle cx="296" cy="53" r="0.8" fill="#eafff0" opacity="0.2"/>
+    <circle cx="584" cy="39" r="0.8" fill="#eafff0" opacity="0.2"/>
+    <circle cx="595" cy="73" r="0.8" fill="#eafff0" opacity="0.5"/>
+    <circle cx="99" cy="70" r="0.6" fill="#eafff0" opacity="0.2"/>
+    <circle cx="633" cy="26" r="1.2" fill="#eafff0" opacity="0.7"/>
+    <circle cx="795" cy="40" r="1.2" fill="#eafff0" opacity="0.7"/>
+    <circle cx="370" cy="38" r="0.8" fill="#eafff0" opacity="0.35"/>
+    <circle cx="715" cy="31" r="0.6" fill="#eafff0" opacity="0.5"/>
+    <circle cx="537" cy="63" r="1" fill="#eafff0" opacity="0.7"/>
+    <circle cx="294" cy="77" r="0.6" fill="#eafff0" opacity="0.2"/>
+    <circle cx="524" cy="53" r="0.8" fill="#eafff0" opacity="0.5"/>
+    <circle cx="155" cy="62" r="1.2" fill="#eafff0" opacity="0.2"/>
+    <circle cx="684" cy="9" r="1" fill="#eafff0" opacity="0.5"/>
+    <circle cx="711" cy="44" r="1.2" fill="#eafff0" opacity="0.7"/>
+    <circle cx="70" cy="11" r="1" fill="#eafff0" opacity="0.7"/>
+    <circle cx="713" cy="85" r="0.6" fill="#eafff0" opacity="0.2"/>
+    <circle cx="748" cy="89" r="1" fill="#eafff0" opacity="0.7"/>
+    <circle cx="291" cy="91" r="1.2" fill="#eafff0" opacity="0.5"/>
+    <circle cx="23" cy="59" r="1" fill="#eafff0" opacity="0.35"/>
+    <circle cx="625" cy="14" r="1.2" fill="#eafff0" opacity="0.2"/>
+    <circle cx="223" cy="36" r="0.8" fill="#eafff0" opacity="0.35"/>
+    <circle cx="407" cy="50" r="1.2" fill="#eafff0" opacity="0.2"/>
+    <circle cx="170" cy="57" r="1.2" fill="#eafff0" opacity="0.5"/>
+    <circle cx="140" cy="55" r="1" fill="#eafff0" opacity="0.7"/>
+    <circle cx="367" cy="87" r="1.2" fill="#eafff0" opacity="0.35"/>
+    <circle cx="154" cy="10" r="0.8" fill="#eafff0" opacity="0.35"/>
+    <circle cx="237" cy="84" r="0.8" fill="#eafff0" opacity="0.2"/>
+    <circle cx="496" cy="75" r="0.8" fill="#eafff0" opacity="0.5"/>
+    <circle cx="288" cy="0" r="0.8" fill="#eafff0" opacity="0.7"/>
+    <circle cx="547" cy="47" r="1" fill="#eafff0" opacity="0.35"/>
+    <circle cx="707" cy="65" r="0.6" fill="#eafff0" opacity="0.7"/>
+    <circle cx="891" cy="87" r="1.2" fill="#eafff0" opacity="0.7"/>
+
+  
+<path d="M -80,115.19999999999999 C 180.0,56.0 360.0,136.0 540.0,64.0 S 810.0,88.0 980,48.0" fill="none" stroke="#39FF14" stroke-width="2.5" opacity="0.28"
+  stroke-linecap="round" stroke-dasharray="6 10">
+  <animate attributeName="stroke-dashoffset" values="0;-500" dur="5.5s" repeatCount="indefinite"/>
+</path>
+<path d="M -80,115.19999999999999 C 180.0,56.0 360.0,136.0 540.0,64.0 S 810.0,88.0 980,48.0" fill="none" stroke="#eafff0" stroke-width="1" opacity="0.18"
+  stroke-linecap="round" stroke-dasharray="2 14">
+  <animate attributeName="stroke-dashoffset" values="0;-500" dur="5.5s" repeatCount="indefinite"/>
+</path>
+
+
+  <g filter="url(#glow)">
+    
+<g id="jet">
+  <!-- engine glow trail (behind jet) -->
+  <ellipse cx="-70" cy="0" rx="46" ry="5" fill="#39FF14" opacity="0.35"/>
+  <ellipse cx="-50" cy="0" rx="30" ry="4" fill="#eafff0" opacity="0.5"/>
+
+  <!-- main fuselage -->
+  <polygon points="60,0 20,-6 -55,-5 -70,0 -55,5 20,6" fill="#39FF14"/>
+  <!-- nose cone -->
+  <polygon points="60,0 42,-3 42,3" fill="#eafff0"/>
+  <!-- cockpit -->
+  <polygon points="18,-5 30,-3 30,3 18,5" fill="#0d3d0d"/>
+
+  <!-- wings -->
+  <polygon points="5,-4 -20,-32 -34,-30 -6,-3" fill="#1fbf0a"/>
+  <polygon points="5,4 -20,32 -34,30 -6,3" fill="#1fbf0a"/>
+
+  <!-- tail fins -->
+  <polygon points="-40,-4 -60,-20 -66,-18 -50,-3" fill="#0d3d0d"/>
+  <polygon points="-40,4 -60,20 -66,18 -50,3" fill="#0d3d0d"/>
+  <polygon points="-52,-3 -70,-14 -74,-12 -58,0" fill="#39FF14" opacity="0.9"/>
+
+  <!-- wingtip lights (blinking) -->
+  <circle cx="-32" cy="-30" r="2.6" fill="#eafff0">
+    <animate attributeName="opacity" values="1;0.15;1" dur="0.9s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="-32" cy="30" r="2.6" fill="#7cffcb">
+    <animate attributeName="opacity" values="0.15;1;0.15" dur="0.9s" repeatCount="indefinite"/>
+  </circle>
+
+  <!-- engine flame flicker -->
+  <polygon points="-70,-3 -92,0 -70,3" fill="#eafff0">
+    <animate attributeName="points"
+      values="-70,-3 -92,0 -70,3; -70,-4 -100,0 -70,4; -70,-3 -92,0 -70,3"
+      dur="0.15s" repeatCount="indefinite"/>
+  </polygon>
+</g>
+
+    <animateMotion dur="5.5s" repeatCount="indefinite" rotate="auto" path="M -80,115.19999999999999 C 180.0,56.0 360.0,136.0 540.0,64.0 S 810.0,88.0 980,48.0"/>
+  </g>
+
+  <!-- bottom accent line matching README dividers -->
+  <rect x="0" y="157" width="900" height="3" fill="#0d3d0d"/>
+</svg>
