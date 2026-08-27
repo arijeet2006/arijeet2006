@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img width="80%" src="./plane.svg" alt="flying jet animation" />
+  <img width="100%" src="./Plane.svg" alt="flying jet animation" />
 </p>
 
 <h3 align="center">
