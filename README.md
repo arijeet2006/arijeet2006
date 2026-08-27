@@ -2,6 +2,10 @@
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=39FF14&animation=fadeIn&fontAlignY=42&desc=GenAI%20%2F%20ML%20Engineer%20%E2%80%94%20Multi-Agent%20Systems&descAlignY=62&descSize=18&descColor=00ff41" />
 </p>
 
+<p align="center">
+  <img width="80%" src="./plane.svg" alt="flying jet animation" />
+</p>
+
 <h3 align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Building+multi-agent+LLM+systems;LangGraph+%7C+LangChain+%7C+RAG;IIT+Patna+%7C+Engineering+Physics;Developer+by+day%2C+gamer+by+night&background=00000000" alt="Typing SVG" />
 </h3>
