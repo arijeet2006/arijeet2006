@@ -103,7 +103,7 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 <p align="center">
 <a href="https://leetcode.com/u/ZOM_ZOM/"><img src="https://img.shields.io/badge/LeetCode-ZOM__ZOM-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" /></a>
 <img src="https://img.shields.io/badge/Problems%20Solved-450+-000000?style=for-the-badge&labelColor=0d3d0d" />
-<img src="https://img.shields.io/badge/Peak%20Rating-1692-000000?style=for-the-badge&labelColor=0d3d0d" />
+<img src="https://img.shields.io/badge/Peak%20Rating-1733-000000?style=for-the-badge&labelColor=0d3d0d" />
 </p>
 
 <p align="center"><b>Focus areas:</b> Dynamic Programming, Trees, Heaps, Graphs</p>
@@ -141,9 +141,21 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 <td align="center"><img src="https://img.shields.io/badge/2%2C203-238636?style=for-the-badge" /></td>
 <td align="center"><img src="https://img.shields.io/badge/1692-238636?style=for-the-badge" /></td>
 </tr>
+<tr>
+<td align="center"><b>Biweekly Contest 190</b></td>
+<td align="center">Aug 29, 2026</td>
+<td align="center"><img src="https://img.shields.io/badge/4%2C033-000000?style=for-the-badge&logoColor=39FF14" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1706-2ea043?style=for-the-badge&logoColor=39FF14" /></td>
+</tr>
+<tr>
+<td align="center"><b>Weekly Contest 518</b></td>
+<td align="center">Sep 06, 2026</td>
+<td align="center"><img src="https://img.shields.io/badge/3%2C083-000000?style=for-the-badge&logoColor=39FF14" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1733-3fb950?style=for-the-badge&logoColor=39FF14" /></td>
+</tr>
 </table>
 
-<p align="center"><i>Rating climbed steadily from 1,561 to 1,692 across four consecutive contests, with a personal-best rank of 2,203 🏆</i></p>
+<p align="center"><i>Rating climbed steadily from 1,561 to 1,733 across six consecutive contests, with a personal-best rank of 2,203 🏆</i></p>
 
 <p align="center">
   <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
