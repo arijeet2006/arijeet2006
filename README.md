@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=39FF14&animation=fadeIn&fontAlignY=42&desc=GenAI%20%2F%20ML%20Engineer%20%E2%80%94%20Multi-Agent%20Systems&descAlignY=62&descSize=18&descColor=00ff41" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0E7490,100:4338CA&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=GenAI%20%2F%20ML%20Engineer%20%E2%80%94%20Multi-Agent%20Systems&descAlignY=62&descSize=18&descColor=CCFBF1" />
 </p>
 
 <p align="center">
@@ -7,17 +7,17 @@
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=39FF14&center=true&vCenter=true&width=650&lines=Building+multi-agent+LLM+systems;LangGraph+%7C+LangChain+%7C+RAG;IIT+Patna+%7C+Engineering+Physics;Developer+by+day%2C+gamer+by+night&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0D9488&center=true&vCenter=true&width=650&lines=Building+multi-agent+LLM+systems;LangGraph+%7C+LangChain+%7C+RAG;IIT+Patna+%7C+Engineering+Physics;Developer+by+day%2C+gamer+by+night&background=00000000" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=arijeet2006&style=for-the-badge&color=000000&label=PROFILE+VIEWS&labelColor=0d3d0d" alt="views"/>
-  <img src="https://img.shields.io/github/followers/arijeet2006?label=Followers&style=for-the-badge&color=000000&labelColor=0d3d0d" alt="followers"/>
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-000000?style=for-the-badge&labelColor=0d3d0d" alt="open to work"/>
+  <img src="https://komarev.com/ghpvc/?username=arijeet2006&style=for-the-badge&color=0F766E&label=PROFILE+VIEWS&labelColor=334155" alt="views"/>
+  <img src="https://img.shields.io/github/followers/arijeet2006?label=Followers&style=for-the-badge&color=0F766E&labelColor=334155" alt="followers"/>
+  <img src="https://img.shields.io/badge/Open%20To-Opportunities-0F766E?style=for-the-badge&labelColor=334155" alt="open to work"/>
 </p>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:6366F1,100:0F766E&height=3" />
 </p>
 
 <h2 align="center">About Me</h2>
@@ -49,61 +49,61 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 </table>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:6366F1,100:0F766E&height=3" />
 </p>
 
 <h2 align="center">Tech Arsenal</h2>
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/C++-0F766E?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-0F766E?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0F766E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-0F766E?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-0F766E?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
 <p align="center"><b>GenAI / ML / DL</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/PyTorch-000000?style=for-the-badge&logo=pytorch&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge&logo=graphql&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/RAG-000000?style=for-the-badge&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/scikit--learn-000000?style=for-the-badge&logo=scikitlearn&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Pandas-000000?style=for-the-badge&logo=pandas&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/NumPy-000000?style=for-the-badge&logo=numpy&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/NLTK-000000?style=for-the-badge&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/PyTorch-4338CA?style=for-the-badge&logo=pytorch&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-4338CA?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-4338CA?style=for-the-badge&logo=graphql&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-4338CA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/scikit--learn-4338CA?style=for-the-badge&logo=scikitlearn&logoColor=white" />
+<img src="https://img.shields.io/badge/Pandas-4338CA?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-4338CA?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-4338CA?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center"><b>Backend & Frameworks</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Streamlit-000000?style=for-the-badge&logo=streamlit&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/FastAPI-0E7490?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-0E7490?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/React-0E7490?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-0E7490?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-0E7490?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 <p align="center"><b>Tools & Platforms</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=39FF14" />
-<img src="https://img.shields.io/badge/Groq-000000?style=for-the-badge&logoColor=39FF14" />
+<img src="https://img.shields.io/badge/Git-475569?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-475569?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-475569?style=for-the-badge&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-475569?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-475569?style=for-the-badge&logoColor=white" />
 </p>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:6366F1,100:0F766E&height=3" />
 </p>
 
 <h2 align="center">Competitive Programming</h2>
 
 <p align="center">
-<a href="https://leetcode.com/u/ZOM_ZOM/"><img src="https://img.shields.io/badge/LeetCode-ZOM__ZOM-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" /></a>
-<img src="https://img.shields.io/badge/Problems%20Solved-450+-000000?style=for-the-badge&labelColor=0d3d0d" />
-<img src="https://img.shields.io/badge/Peak%20Rating-1733-000000?style=for-the-badge&labelColor=0d3d0d" />
+<a href="https://leetcode.com/u/ZOM_ZOM/"><img src="https://img.shields.io/badge/LeetCode-ZOM__ZOM-B45309?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<img src="https://img.shields.io/badge/Problems%20Solved-450+-0F766E?style=for-the-badge&labelColor=334155" />
+<img src="https://img.shields.io/badge/Peak%20Rating-1808-4338CA?style=for-the-badge&labelColor=334155" />
 </p>
 
 <p align="center"><b>Focus areas:</b> Dynamic Programming, Trees, Heaps, Graphs</p>
@@ -120,45 +120,57 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 <tr>
 <td align="center"><b>Weekly Contest 504</b></td>
 <td align="center">May 31, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/2%2C386-000000?style=for-the-badge&logoColor=39FF14" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1561-0d3d0d?style=for-the-badge&logoColor=39FF14" /></td>
+<td align="center"><img src="https://img.shields.io/badge/2%2C386-475569?style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1561-0F766E?style=for-the-badge" /></td>
 </tr>
 <tr>
 <td align="center"><b>Biweekly Contest 185</b></td>
 <td align="center">Jun 20, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/3%2C115-000000?style=for-the-badge&logoColor=39FF14" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1606-145214?style=for-the-badge&logoColor=39FF14" /></td>
+<td align="center"><img src="https://img.shields.io/badge/3%2C115-475569?style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1606-0F766E?style=for-the-badge" /></td>
 </tr>
 <tr>
 <td align="center"><b>Weekly Contest 509</b></td>
 <td align="center">Jul 05, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/4%2C241-000000?style=for-the-badge&logoColor=39FF14" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1643-1c6b1c?style=for-the-badge&logoColor=39FF14" /></td>
+<td align="center"><img src="https://img.shields.io/badge/4%2C241-475569?style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1643-0F766E?style=for-the-badge" /></td>
 </tr>
 <tr>
-<td align="center"><b>Biweekly Contest 189</b> 🏆</td>
+<td align="center"><b>Biweekly Contest 189</b></td>
 <td align="center">Aug 15, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/2%2C203-238636?style=for-the-badge" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1692-238636?style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/2%2C203-475569?style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1692-0F766E?style=for-the-badge" /></td>
 </tr>
 <tr>
 <td align="center"><b>Biweekly Contest 190</b></td>
 <td align="center">Aug 29, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/4%2C033-000000?style=for-the-badge&logoColor=39FF14" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1706-2ea043?style=for-the-badge&logoColor=39FF14" /></td>
+<td align="center"><img src="https://img.shields.io/badge/4%2C033-475569?style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1706-0F766E?style=for-the-badge" /></td>
 </tr>
 <tr>
 <td align="center"><b>Weekly Contest 518</b></td>
 <td align="center">Sep 06, 2026</td>
-<td align="center"><img src="https://img.shields.io/badge/3%2C083-000000?style=for-the-badge&logoColor=39FF14" /></td>
-<td align="center"><img src="https://img.shields.io/badge/1733-3fb950?style=for-the-badge&logoColor=39FF14" /></td>
+<td align="center"><img src="https://img.shields.io/badge/3%2C083-475569?style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1733-0F766E?style=for-the-badge" /></td>
+</tr>
+<tr>
+<td align="center"><b>Weekly Contest 521</b> 🏆</td>
+<td align="center">Sep 27, 2026</td>
+<td align="center"><img src="https://img.shields.io/badge/564-B45309?style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1807-0F766E?style=for-the-badge" /></td>
+</tr>
+<tr>
+<td align="center"><b>Biweekly Contest 193</b></td>
+<td align="center">Oct 10, 2026</td>
+<td align="center"><img src="https://img.shields.io/badge/3%2C531-475569?style=for-the-badge" /></td>
+<td align="center"><img src="https://img.shields.io/badge/1808-4338CA?style=for-the-badge" /></td>
 </tr>
 </table>
 
-<p align="center"><i>Rating climbed steadily from 1,561 to 1,733 across six consecutive contests, with a personal-best rank of 2,203 🏆</i></p>
+<p align="center"><i>Rating climbed steadily from 1,561 to 1,808 across eight contests, with a personal-best rank of 564 🏆</i></p>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:6366F1,100:0F766E&height=3" />
 </p>
 
 <h2 align="center">Achievements</h2>
@@ -177,7 +189,7 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 </div>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:6366F1,100:0F766E&height=3" />
 </p>
 
 <h2 align="center">GitHub Stats</h2>
@@ -187,52 +199,17 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 </p>
 
 <p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
-</p>
-
-<h2 align="center">Featured Projects</h2>
-
-<table align="center" width="100%">
-<tr>
-<td width="50%" valign="top">
-
-**AI Dental Appointment Management System**
-
-A conversational AI scheduling platform built on a 9-node LangGraph state machine, with a Supervisor and 4 specialized agents (Info, Booking, Cancellation, Rescheduling) handling the full appointment lifecycle. Uses Gemini for intent classification and 7 custom LangChain tools to manage 4,280+ appointment slots for 10 doctors across 7 specializations.
-
-`LangGraph` `Gemini` `Python` `Streamlit` `LangChain`
-
-Source: [github.com/arijeet2006/dental-ai](https://github.com/arijeet2006/dental-ai)
-Demo Video: [Watch here](https://drive.google.com/file/d/13bF_SiOEW-3XsUIw96M1uA46VtSF2rOW/view?usp=sharing)
-
-</td>
-<td width="50%" valign="top">
-
-**TripMate AI — Multi-Agent Orchestration Platform**
-
-A 4-agent LangGraph pipeline (flight, hotel, itinerary, synthesis) coordinated by Groq-accelerated LLaMA3.3-70B for parallelized trip planning. Includes a deterministic NLP heuristic over 28,000+ global airports to resolve ambiguous locations into IATA codes, exposed through a 4-endpoint FastAPI backend with PostgreSQL-backed checkpointing.
-
-`LangGraph` `FastAPI` `PostgreSQL` `Groq` `Python`
-
-Source: [github.com/arijeet2006/MultiAgent-Travel-AI](https://github.com/arijeet2006/MultiAgent-Travel-AI)
-Demo Video: [Watch here](https://drive.google.com/file/d/1C5ugiRwPzZTTK-DsC6MZZhwVMYCS19TJ/view?usp=sharing)
-
-</td>
-</tr>
-</table>
-
-<p align="center">
-  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:39ff14,100:000000&height=3" />
+  <img width="100%" height="3" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F766E,50:6366F1,100:0F766E&height=3" />
 </p>
 
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/arijeet-das-2a80b5329/"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14" /></a>
-<a href="mailto:2006.arijeet.das@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39FF14" /></a>
-<a href="https://leetcode.com/u/ZOM_ZOM/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&logoColor=39FF14" /></a>
+<a href="https://www.linkedin.com/in/arijeet-das-2a80b5329/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:2006.arijeet.das@gmail.com"><img src="https://img.shields.io/badge/Gmail-B91C1C?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://leetcode.com/u/ZOM_ZOM/"><img src="https://img.shields.io/badge/LeetCode-B45309?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:003300,100:000000&height=100&section=footer" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0E7490,100:4338CA&height=100&section=footer" />
 </p>
