@@ -1,13 +1,9 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0E7490,100:4338CA&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=GenAI%20%2F%20ML%20Engineer%20%E2%80%94%20Multi-Agent%20Systems&descAlignY=62&descSize=18&descColor=CCFBF1" />
-</p>
-
-<p align="center">
-  <img width="100%" src="./Plane.svg" alt="flying jet animation" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0E7490,100:4338CA&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Machine%20Learning%20Engineer%20%E2%80%94%20GenAI%20%26%20Multi-Agent%20Systems&descAlignY=62&descSize=18&descColor=CCFBF1" />
 </p>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0D9488&center=true&vCenter=true&width=650&lines=Building+multi-agent+LLM+systems;LangGraph+%7C+LangChain+%7C+RAG;IIT+Patna+%7C+Engineering+Physics;Developer+by+day%2C+gamer+by+night&background=00000000" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=0D9488&center=true&vCenter=true&width=700&lines=Machine+Learning+Engineer;PyTorch+%7C+scikit-learn+%7C+XGBoost+%7C+LightGBM;LangGraph+%7C+LangChain+%7C+RAG+%7C+Multi-Agent+Systems;From+raw+data+to+deployed+models;IIT+Patna+%7C+Engineering+Physics;Developer+by+day%2C+gamer+by+night&background=00000000" alt="Typing SVG" />
 </h3>
 
 <p align="center">
@@ -23,10 +19,15 @@
 <h2 align="center">About Me</h2>
 
 <p align="center" width="90%">
-I'm a third-year Engineering Physics undergraduate at IIT Patna, working on GenAI and multi-agent systems.
-My recent projects use LangGraph to orchestrate multiple specialized LLM agents into a single coherent
-workflow — from AI-driven appointment scheduling to automated trip planning — combining state-machine
-design with LLM reasoning, retrieval, and structured tool use.
+I'm a third-year Engineering Physics undergraduate at IIT Patna and an aspiring <b>Machine Learning Engineer</b>.
+I build end-to-end ML systems: feature engineering, modeling on imbalanced and real-world data,
+explainability, and serving models through production-style APIs and dashboards.
+</p>
+
+<p align="center" width="90%">
+On the GenAI side, I use LangGraph to orchestrate multiple specialized LLM agents into a single coherent workflow,
+from AI-driven appointment scheduling to automated trip planning, combining state-machine design with
+LLM reasoning, retrieval, and structured tool use.
 </p>
 
 <p align="center">
@@ -35,16 +36,24 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 
 <table align="center">
   <tr>
+    <td><b>Role</b></td>
+    <td>Machine Learning Engineer (aspiring), GenAI and multi-agent systems</td>
+  </tr>
+  <tr>
     <td><b>Currently building with</b></td>
-    <td>LangGraph, LangChain, RAG pipelines, Gemini, Groq-hosted LLaMA models</td>
+    <td>PyTorch, scikit-learn, XGBoost, LightGBM, LangGraph, LangChain, RAG pipelines, FastAPI</td>
+  </tr>
+  <tr>
+    <td><b>Strengths</b></td>
+    <td>Imbalanced-data modeling, probability calibration, NLP feature engineering, model explainability (SHAP / LIME)</td>
   </tr>
   <tr>
     <td><b>Currently exploring</b></td>
-    <td>Agentic workflows, retrieval-augmented generation, quantum computing</td>
+    <td>Agentic workflows, retrieval-augmented generation, MLOps, quantum computing</td>
   </tr>
   <tr>
     <td><b>Goal</b></td>
-    <td>Ship working agents. Solve hard problems. Repeat.</td>
+    <td>Ship working models. Solve hard problems. Repeat.</td>
   </tr>
 </table>
 
@@ -56,42 +65,96 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
 
 <p align="center"><b>Languages</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/C++-0F766E?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/Python-0F766E?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-0F766E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-0F766E?style=for-the-badge&logo=cplusplus&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-0F766E?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-0F766E?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/Bash-0F766E?style=for-the-badge&logo=gnubash&logoColor=white" />
 <img src="https://img.shields.io/badge/HTML5-0F766E?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-0F766E?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-<p align="center"><b>GenAI / ML / DL</b></p>
+<p align="center"><b>Machine Learning & Deep Learning</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/PyTorch-4338CA?style=for-the-badge&logo=pytorch&logoColor=white" />
-<img src="https://img.shields.io/badge/LangChain-4338CA?style=for-the-badge&logo=langchain&logoColor=white" />
-<img src="https://img.shields.io/badge/LangGraph-4338CA?style=for-the-badge&logo=graphql&logoColor=white" />
-<img src="https://img.shields.io/badge/RAG-4338CA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-4338CA?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/Keras-4338CA?style=for-the-badge&logo=keras&logoColor=white" />
 <img src="https://img.shields.io/badge/scikit--learn-4338CA?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-4338CA?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-4338CA?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/NLTK-4338CA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/XGBoost-4338CA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LightGBM-4338CA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/CatBoost-4338CA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Optuna-4338CA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/SHAP-4338CA?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LIME-4338CA?style=for-the-badge&logoColor=white" />
 </p>
 
-<p align="center"><b>Backend & Frameworks</b></p>
+<p align="center"><b>GenAI & LLM Engineering</b></p>
 <p align="center">
-<img src="https://img.shields.io/badge/FastAPI-0E7490?style=for-the-badge&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Django-0E7490?style=for-the-badge&logo=django&logoColor=white" />
-<img src="https://img.shields.io/badge/React-0E7490?style=for-the-badge&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Streamlit-0E7490?style=for-the-badge&logo=streamlit&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-0E7490?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/LangChain-6366F1?style=for-the-badge&logo=langchain&logoColor=white" />
+<img src="https://img.shields.io/badge/LangGraph-6366F1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/RAG-6366F1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Hugging%20Face-6366F1?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Transformers-6366F1?style=for-the-badge&logo=huggingface&logoColor=white" />
+<img src="https://img.shields.io/badge/Gemini-6366F1?style=for-the-badge&logo=googlegemini&logoColor=white" />
+<img src="https://img.shields.io/badge/Groq-6366F1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/LLaMA-6366F1?style=for-the-badge&logo=meta&logoColor=white" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-6366F1?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center"><b>NLP & Computer Vision</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/spaCy-0369A1?style=for-the-badge&logo=spacy&logoColor=white" />
+<img src="https://img.shields.io/badge/NLTK-0369A1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Gensim-0369A1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/rank--bm25-0369A1?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-0369A1?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/Pillow-0369A1?style=for-the-badge&logoColor=white" />
+</p>
+
+<p align="center"><b>Data Science & Visualization</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/Pandas-0E7490?style=for-the-badge&logo=pandas&logoColor=white" />
+<img src="https://img.shields.io/badge/NumPy-0E7490?style=for-the-badge&logo=numpy&logoColor=white" />
+<img src="https://img.shields.io/badge/SciPy-0E7490?style=for-the-badge&logo=scipy&logoColor=white" />
+<img src="https://img.shields.io/badge/Polars-0E7490?style=for-the-badge&logo=polars&logoColor=white" />
+<img src="https://img.shields.io/badge/Matplotlib-0E7490?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Seaborn-0E7490?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Plotly-0E7490?style=for-the-badge&logo=plotly&logoColor=white" />
+<img src="https://img.shields.io/badge/Jupyter-0E7490?style=for-the-badge&logo=jupyter&logoColor=white" />
+</p>
+
+<p align="center"><b>MLOps, Deployment & Backend</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/FastAPI-475569?style=for-the-badge&logo=fastapi&logoColor=white" />
+<img src="https://img.shields.io/badge/Streamlit-475569?style=for-the-badge&logo=streamlit&logoColor=white" />
+<img src="https://img.shields.io/badge/Django-475569?style=for-the-badge&logo=django&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-475569?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/MLflow-475569?style=for-the-badge&logo=mlflow&logoColor=white" />
+<img src="https://img.shields.io/badge/DVC-475569?style=for-the-badge&logo=dvc&logoColor=white" />
+<img src="https://img.shields.io/badge/Weights%20%26%20Biases-475569?style=for-the-badge&logo=weightsandbiases&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub%20Actions-475569?style=for-the-badge&logo=githubactions&logoColor=white" />
+<img src="https://img.shields.io/badge/Pytest-475569?style=for-the-badge&logo=pytest&logoColor=white" />
+<img src="https://img.shields.io/badge/React-475569?style=for-the-badge&logo=react&logoColor=white" />
+</p>
+
+<p align="center"><b>Databases & Vector Stores</b></p>
+<p align="center">
+<img src="https://img.shields.io/badge/PostgreSQL-334155?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-334155?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://img.shields.io/badge/FAISS-334155?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/ChromaDB-334155?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/Parquet-334155?style=for-the-badge&logo=apache&logoColor=white" />
 </p>
 
 <p align="center"><b>Tools & Platforms</b></p>
 <p align="center">
 <img src="https://img.shields.io/badge/Git-475569?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-475569?style=for-the-badge&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-475569?style=for-the-badge&logo=github&logoColor=white" />
 <img src="https://img.shields.io/badge/Linux-475569?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-475569?style=for-the-badge&logo=jupyter&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-475569?style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/VS%20Code-475569?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+<img src="https://img.shields.io/badge/Google%20Colab-475569?style=for-the-badge&logo=googlecolab&logoColor=white" />
+<img src="https://img.shields.io/badge/Kaggle-475569?style=for-the-badge&logo=kaggle&logoColor=white" />
+<img src="https://img.shields.io/badge/Anaconda-475569?style=for-the-badge&logo=anaconda&logoColor=white" />
 </p>
 
 <p align="center">
