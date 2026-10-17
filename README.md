@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0E7490,100:4338CA&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Machine%20Learning%20Engineer%20%E2%80%94%20GenAI%20%26%20Multi-Agent%20Systems&descAlignY=62&descSize=18&descColor=CCFBF1" />
+  <img width="100%" alt="Arijeet Das banner" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F766E,50:0E7490,100:4338CA&height=180&section=header&text=Arijeet%20Das&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=Machine%20Learning%20Engineer%20%E2%80%94%20GenAI%20and%20Multi-Agent%20Systems&descAlignY=62&descSize=18&descColor=CCFBF1" />
 </p>
 
 <h3 align="center">
