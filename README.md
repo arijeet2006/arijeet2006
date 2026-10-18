@@ -31,7 +31,7 @@ LLM reasoning, retrieval, and structured tool use.
 </p>
 
 <p align="center">
-Outside of coursework, I compete on LeetCode and Codeforces, and have represented my team at national-level hackathons.
+Outside of coursework, I compete on LeetCode and Codeforces.
 </p>
 
 <table align="center">
@@ -49,7 +49,7 @@ Outside of coursework, I compete on LeetCode and Codeforces, and have represente
   </tr>
   <tr>
     <td><b>Currently exploring</b></td>
-    <td>Agentic workflows, retrieval-augmented generation, MLOps, quantum computing</td>
+    <td>Agentic workflows, retrieval-augmented generation, MLOps</td>
   </tr>
   <tr>
     <td><b>Goal</b></td>
